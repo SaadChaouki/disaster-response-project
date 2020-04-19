@@ -19,7 +19,7 @@ In this project, an ETL pipeline is built that cleans the data using regex and N
 
 ### Files
 
-* **run.py**: 
+* **run.py**: Flask app with data visualisation and predictions.
 * **process_data.py**: Code that takes the address of a category file and the texts, transforms target variables, and saves the data in a database.
 * **train_classifier.py**: Script to take the data from the database, build a pipeline, and performs Grid Search cross-validation. The best estimator is saved as a pickel file.
 
