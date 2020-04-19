@@ -27,3 +27,16 @@ This project is part of the Udacity Data Scientist for Enterprise project.
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+### Web Application
+
+
+
+### Author
+
+* [Saad Chaouki](https://www.linkedin.com/in/schaouki/)
+
+### Acknowledgements
+
+* 
+*
