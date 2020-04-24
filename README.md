@@ -45,7 +45,7 @@ To run the code, clone this GIT repository:
 
 ### Web Application
 
-![alt text](https://raw.githubusercontent.com/SaadChaouki/disaster-response-project/screenshots/overall_app.png)
+Screenshots of the application are included [here](https://github.com/SaadChaouki/disaster-response-project/tree/master/screenshots).
 
 ### Author
 
