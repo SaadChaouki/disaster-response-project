@@ -27,7 +27,7 @@ In this project, an ETL pipeline is built that cleans the data using regex and N
 
 To run the code, clone this GIT repository:
 
-`git clode https://github.com/SaadChaouki/disaster-response-project.git`
+`git clone https://github.com/SaadChaouki/disaster-response-project.git`
 
 ### Executing
 
